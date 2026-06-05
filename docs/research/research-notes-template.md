@@ -32,7 +32,7 @@ Deneyip de işe yaramayan şeyler ve nedenleri:
 - [ ] Question 1
 - [ ] Question 2
 
-## 50-Step Breakdown
+## 5-Step Breakdown
 
 1. Adım 1: **Sosyal Mühendisliğin Psikolojik Temelleri Nelerdir?** --> İnsan zihnindeki "güven","otorite" ve "aciliyet" duygularının saldırganlar tarafından nasıl manipüle edildiğini tanımlayın.
 2. Adım 2: **Saldırı Döngüsünün İlk Aşamasında Bilgi Toplama Nasıl Yapılır?** --> OSINT (Açık Kaynak İstihbaratı) araçları kullanılarak bir hedefin sosyal medya ve kurumsal verilerinin nasıl ele geçirildiğini inceleyin.
