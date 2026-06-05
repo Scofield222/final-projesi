@@ -1,6 +1,8 @@
 # Research Notes
 
 > Module / Konu: Sosyal Mühendislik
+>
+> Date / Tarih: 2026/06/06
 
 
 ---
