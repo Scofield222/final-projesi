@@ -1,5 +1,4 @@
-# ROADMAP — [Your Project Title]
-# ROADMAP — [Proje Başlığınız]
+# ROADMAP — Sosyal Mühendislik Farkındalık Raporu
 
 > Course / Ders: Penetration Testing (BGT006) · Istinye University
 > Instructor / Danışman: Keyvan Arasteh
@@ -8,13 +7,11 @@
 
 ## Phase 0 / Faz 0: Understand Before You Build / Yazmadan Önce Anla
 
-Before writing a single line of code, I answered these questions:
-Tek satır kod yazmadan önce şu soruları yanıtladım:
 
-- What is the project? / Proje nedir?
-- How does it work? / Nasıl çalışır?
-- What are the inputs/outputs? / Girdiler/çıktılar neler?
-- What tools will I use and why? / Hangi araçları kullanacağım ve neden?
+- **Proje nedir?:** Kurumsal düzeyde sosyal mühendislik (kimlik avı, yemleme) saldırılarını analiz eden ve çalışanlar için farkındalık eğitim modelleri sunan bir güvenlik projesi.
+- **Nasıl çalışır?:** Saldırı vektörlerinin teorik analizi yapılır, ardından tespit ve korunma yöntemlerini içeren modüller aracılığıyla eğitim süreci işlenir.
+- **Girdiler/çıktılar neler?:** Girdi olarak güncel sosyal mühendislik teknikleri ve vakaları kullanılır; Çıktı olarak ise teknik analiz raporları ve eğitim dokümanları üretilir.
+- **Hangi araçları kullanacağım ve neden?:** OSINT araçları (araştırma için) ve Markdown/Git (raporlama ve sürüm kontrolü için)
 
 ---
 
