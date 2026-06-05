@@ -9,23 +9,23 @@
 
 ## What I'm Investigating / Araştırdığım Konu
 
-[Describe what you're trying to understand]
+Sosyal Mühendislik saldırılarında kullanılan "Aciliyet" (Urgency) ve "Otorite" (Authority) psikolojik tetikleyicilerinin kurban üzerindeki etkisi ve bu tetikleyicilerin teknik oltalama (phishing) yöntemleriyle nasıl harmanlandığı.
 
 ## Resources Found / Bulunan Kaynaklar
 
-- [Resource 1](URL) — What I learned from it
-- [Resource 2](URL) — What I learned from it
+- OWASP Phishing Rehberi (https://owasp.org/) - Phishing saldırılarında URL maskeleme ve sahte form oluşturma tekniklerini öğrendim.
+- NIST Sosyall Mühendislik Rehberi (https://csrc.nist.gov/) Kurumsal güvenlik politikalarında insan faktörünün nasıl bir savunma katmanı olarak kullanabileceğini öğrendim.
 
 ## Key Findings / Temel Bulgular
 
-1. Finding one
-2. Finding two
+1. Saldırganlar, kurbanın panik yapmasını sağlayarak mantıklı düşünme yetisini engelliyor.
+2. "Aciliyet" vurgusu (örneğin: "Hesabınız 1 saat içinde kapatılacak") kurbanın linki kontrol etmeden tıklama oranını artırıyor.
 
 ## Dead Ends / Çıkmaz Sokaklar
 
-Things I tried that didn't work and why:
-- Tried X → didn't work because Y
-- Tried A → failed because B
+Deneyip de işe yaramayan şeyler ve nedenleri:
+- **Otomatik Phishing scriptlerini doğrudan denedim** --> Kurumsal antivirüsler ve e-posta filtreleri (SPF/DKIM/DMARC) tarafından anında engellendi.
+- **Toplu e-posta gönderimi** --> Gmail'in "Spam" filtresine takıldı, teslimat oranım çok düşük kaldı.
 
 ## Questions Remaining / Kalan Sorular
 
