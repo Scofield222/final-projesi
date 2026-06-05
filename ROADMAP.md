@@ -39,26 +39,26 @@
 
 ### Module / Modül: [Name / Ad]
 
-1. Step 1 / Adım 1 —
-2. Step 2 / Adım 2 —
-3. Step 3 / Adım 3 —
+1. Step 1 / Adım 1 — Hedef kitle analizi ve senaryo tasarımı (Phishing simülasyonu için içerik kurgusu).
+2. Step 2 / Adım 2 — Teknik araçların (Docker/Python scriptleri) konfigürasyonu ve test ortamına entegrasyonu.
+3. Step 3 / Adım 3 — Eğitim çıktılarının ve kullanıcı analiz raporlarının ottomatik üretilmesi.
 
 ---
 
 ## Phase 4 / Faz 4: Testing & Reporting / Test ve Raporlama
 
-- [ ] Ran tests against target/sample / Hedef/örnek üzerinde testler çalıştırıldı
-- [ ] Documented all findings with evidence / Tüm bulgular kanıtlarıyla belgelendi
-- [ ] Wrote final report (Markdown) / Final raporu yazıldı
+- [x] Ran tests against target/sample / Hedef/örnek üzerinde testler çalıştırıldı
+- [x] Documented all findings with evidence / Tüm bulgular kanıtlarıyla belgelendi
+- [x] Wrote final report (Markdown) / Final raporu yazıldı
 
 ---
 
 ## Phase 5 / Faz 5: Delivery / Teslim
 
-- [ ] GitHub repository is clean and organized / Repo temiz ve düzenli
-- [ ] README.md complete / eksiksiz
-- [ ] Docker verified (`docker-compose up`) / doğrulandı
-- [ ] Instructor invited as collaborator / Danışman collaborator olarak eklendi → **keyvanarasteh**
+- [x] GitHub repository is clean and organized / Repo temiz ve düzenli
+- [x] README.md complete / eksiksiz
+- [x] Docker verified (`docker-compose up`) / doğrulandı
+- [x] Instructor invited as collaborator / Danışman collaborator olarak eklendi → **keyvanarasteh**
 
 ---
 
