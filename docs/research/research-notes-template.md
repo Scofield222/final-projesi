@@ -29,8 +29,8 @@ Deneyip de işe yaramayan şeyler ve nedenleri:
 
 ## Questions Remaining / Kalan Sorular
 
-- [ ] Question 1
-- [ ] Question 2
+- [ ] Soru 1: Kurumsal ortamlarda çalışanların eğitim sonrası davranış değişiklikleri nasıl ölçülebilir?
+- [ ] Soru 2: Yapay zeka tabanlı oltalama (AI Phishing) araçları geleneksel e-posta filtreleme sistemlerini ne derece etkisiz kılabilir? 
 
 ## 5-Step Breakdown
 
