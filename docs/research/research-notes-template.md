@@ -7,11 +7,11 @@
 
 ---
 
-## What I'm Investigating / Araştırdığım Konu
+## What I'm Investigating
 
 Sosyal Mühendislik saldırılarında kullanılan "Aciliyet" (Urgency) ve "Otorite" (Authority) psikolojik tetikleyicilerinin kurban üzerindeki etkisi ve bu tetikleyicilerin teknik oltalama (phishing) yöntemleriyle nasıl harmanlandığı.
 
-## Resources Found / Bulunan Kaynaklar
+## Resources Found
 
 - OWASP Phishing Rehberi (https://owasp.org/) - Phishing saldırılarında URL maskeleme ve sahte form oluşturma tekniklerini öğrendim.
 - NIST Sosyall Mühendislik Rehberi (https://csrc.nist.gov/) Kurumsal güvenlik politikalarında insan faktörünün nasıl bir savunma katmanı olarak kullanabileceğini öğrendim.
