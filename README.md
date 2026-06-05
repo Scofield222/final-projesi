@@ -1,1 +1,108 @@
-# final-projesi
+<div align="center">
+  <a href="https://istinye.edu.tr">
+    <img src="docs/assets/istinye-university-logo.webp" alt="Istinye University" width="180"/>
+  </a>
+
+  # [Your Project Title / Proje Başlığınız]
+
+  ![GitHub](https://img.shields.io/badge/GitHub-Private-red?style=flat-square&logo=github)
+  ![Language](https://img.shields.io/badge/Language-[Rust|Python|Go]-blue?style=flat-square)
+  ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+  ![Course](https://img.shields.io/badge/Course-BGT006-purple?style=flat-square)
+  ![License](https://img.shields.io/badge/License-Educational-green?style=flat-square)
+</div>
+
+---
+
+## 🎓 Instructor / Danışman
+
+| | |
+|---|---|
+| **Name / Ad** | Keyvan Arasteh |
+| **GitHub** | [@keyvanarasteh](https://github.com/keyvanarasteh) |
+| **Email** | [keyvan.arasteh@istinye.edu.tr](mailto:keyvan.arasteh@istinye.edu.tr) |
+| **LinkedIn** | [keyvanarasteh](https://www.linkedin.com/in/keyvanarasteh/) |
+| **Website** | [qline.tech](https://qline.tech) |
+
+---
+
+## 👤 Student / Öğrenci
+
+| | |
+|---|---|
+| **Name / Ad Soyad** | [Your Full Name / Adınız Soyadınız] |
+| **Student ID / Öğrenci No** | `****[middle digits / orta rakamlar]****` |
+
+---
+
+## 📚 Course Information / Ders Bilgileri
+
+| | |
+|---|---|
+| **Course Name / Ders Adı** | Penetration Testing / Sızma Testi |
+| **Course Code / Ders Kodu** | BGT006 |
+| **Credits / Kredi** | 3 ECTS |
+| **Semester / Dönem** | 2025-2026 Spring / 2025-2026 Bahar |
+| **Institution / Üniversite** | [Istinye University](https://istinye.edu.tr) |
+
+---
+
+## 📋 Project Overview / Proje Özeti
+
+[Describe what your project does and which course module it covers.]
+[Projenizin ne yaptığını ve hangi ders modülünü kapsadığını açıklayın.]
+
+---
+
+## 🗂 Repository Structure / Repo Yapısı
+
+```
+.
+├── README.md
+├── ROADMAP.md
+├── Dockerfile
+├── docker-compose.yml
+├── .env.example
+├── .gitignore
+├── docs/
+│   ├── modules/
+│   ├── research/
+│   └── references/
+└── src/
+```
+
+---
+
+## 🚀 Getting Started / Kurulum
+
+```bash
+git clone https://github.com/[yourusername]/[your-repo]
+cd [your-repo]
+cp .env.example .env
+# Edit .env with your values / .env dosyasını doldurun
+docker-compose up -d
+```
+
+---
+
+## 📊 Deliverables / Teslimler
+
+| Item | Status |
+|------|--------|
+| [Deliverable 1] | ⬜ |
+| [Deliverable 2] | ⬜ |
+| [Deliverable 3] | ⬜ |
+
+---
+
+## 📚 Documentation / Belgeleme
+
+All module docs → [`docs/modules/`](./docs/modules/)
+Research notes → [`docs/research/`](./docs/research/)
+
+---
+
+## 🔗 References / Kaynaklar
+
+- [Reference 1](URL)
+- [Reference 2](URL)
