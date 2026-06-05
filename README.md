@@ -54,13 +54,11 @@ Bu proje, güncel sosyal mühendislik saldırı tekniklerini (kimlik avı, bahan
 ---
 
 
----
-
 ## 🚀 Getting Started / Kurulum
 
 ```bash
-git clone https://github.com/[yourusername]/[your-repo]
-cd [your-repo]
+git clone https://github.com/Scofield222/final-projesi
+cd final-projesi
 cp .env.example .env
 # Edit .env with your values / .env dosyasını doldurun
 docker-compose up -d
