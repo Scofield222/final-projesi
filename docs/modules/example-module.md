@@ -6,22 +6,22 @@ Bu modül, çalışanların ve kullanıcıların sosyal mühendislik saldırıla
 ## How It Works / Nasıl Çalışır
 
 Step-by-step explanation:
-1. Step one
-2. Step two
-3. Step three
+1. **İnceleme:** Kullanıcı, gelen şüpheli içeriğin (e-posta/mesaj) domain adresini ve gönderici ismini kontrol eder.
+2. **Doğrulama:** İçerikteki aciliyet içeren linklere tıklanmadan önce, kurumun resmi kanallarından doğrulama yapılır.
+3. **Eylem::** Eğer içerik sahte ise "Bildir" butonuna tıklanarak güvenlik merkezine iletilir.
 
 ## Usage / Kullanım
 
 ```bash
-# Example command / Örnek komut
-python main.py --target example.com --output ./reports
+# Eğitim simülasyonunu başlatmak için şu komutu çalıştrın:
+python awareness_training.py --user-level beginner --mode simulation
 ```
 
 ## Output / Çıktı
 
-Describe what the output looks like and how to interpret it.
+Program çalıştırıldığında, kullanıcıya gerçek bir phishing örneği sunulur. Çıktı olarak, kullanıcının bu saldırıyı "Başarıyla Tespit Etti" şeklinde analiz raporu üretilir.
 
 ## Known Limitations / Bilinen Kısıtlamalar
 
-- Limitation 1
-- Limitation 2
+- **İçerik Kısıtı:** Eğitim, sadece e-posta bazlı phishing senaryolarını kapsar.
+- **Dinamik Güncelleme:** Yeni nesil (AI destekli) deepfake saldırıları bu modülün kapsamı dışındadır.
