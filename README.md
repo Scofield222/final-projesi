@@ -53,22 +53,6 @@ Bu proje, güncel sosyal mühendislik saldırı tekniklerini (kimlik avı, bahan
 
 ---
 
-## 🗂 Repository Structure / Repo Yapısı
-
-```
-.
-├── README.md
-├── ROADMAP.md
-├── Dockerfile
-├── docker-compose.yml
-├── .env.example
-├── .gitignore
-├── docs/
-│   ├── modules/
-│   ├── research/
-│   └── references/
-└── src/
-```
 
 ---
 
