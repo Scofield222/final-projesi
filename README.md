@@ -30,8 +30,8 @@
 
 | | |
 |---|---|
-| **Name / Ad Soyad** | [Your Full Name / Adınız Soyadınız] |
-| **Student ID / Öğrenci No** | `****[middle digits / orta rakamlar]****` |
+| **Name / Ad Soyad** | Hayrettin Emre SAYAR |
+| **Student ID / Öğrenci No** | `2520191022` |
 
 ---
 
