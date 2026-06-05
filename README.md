@@ -49,8 +49,7 @@
 
 ## 📋 Project Overview / Proje Özeti
 
-[Describe what your project does and which course module it covers.]
-[Projenizin ne yaptığını ve hangi ders modülünü kapsadığını açıklayın.]
+Bu proje, güncel sosyal mühendislik saldırı tekniklerini (kimlik avı, bahane uydurma) incelemek, bu saldırılara karşı farkındalık eğitim modelleri geliştirmek ve saldırı anatomisini teknik olarak analiz etmek amacıyla hazırlanmıştır.
 
 ---
 
