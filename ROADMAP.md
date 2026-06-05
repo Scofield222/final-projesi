@@ -21,17 +21,17 @@
 
 | Topic / Konu | Status / Durum | Notes / Notlar |
 |--------------|----------------|----------------|
-| [Topic 1] | ⬜ Not Started | |
-| [Topic 2] | ⬜ Not Started | |
-| [Topic 3] | ⬜ Not Started | |
+| Sosyal Mühendislik Psikolojisi | ⬜ Tamamlandı | Temel tetikleyiciler analiz edildi |
+| Phishing Teknik Analizi | ⬜ Tamamlandı | URL ve başlık manipülasyonları incelendi |
+| Savunma Protokolleri | ⬜ Tamamlandı | DMARC/SPF/DKIM standartları araştırıldı |
 
 ---
 
 ## Phase 2 / Faz 2: Environment Setup / Ortam Kurulumu
 
-- [ ] Isolated lab environment (Docker / VM) / İzole lab ortamı
-- [ ] Tools installed and verified / Araçlar kuruldu ve test edildi
-- [ ] `.env.example` created / oluşturuldu
+- [x] Isolated lab environment (Docker / VM) / İzole lab ortamı
+- [x] Tools installed and verified / Araçlar kuruldu ve test edildi
+- [x] `.env.example` created / oluşturuldu
 
 ---
 
