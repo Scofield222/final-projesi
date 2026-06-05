@@ -70,9 +70,9 @@ docker-compose up -d
 
 | Item | Status |
 |------|--------|
-| [Deliverable 1] | ⬜ |
-| [Deliverable 2] | ⬜ |
-| [Deliverable 3] | ⬜ |
+| Sosyal Mühendislik Raporu | ✅ |
+| Dockerized Lab Ortamı | ✅ |
+| Final Proje Dokümantasyonu (README)| ✅ |
 
 ---
 
