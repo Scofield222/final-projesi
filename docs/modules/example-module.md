@@ -1,9 +1,7 @@
-# Module Name / Modül Adı
+# Sosyal Mühendislik Farkındalık Eğitimi
 
 ## Purpose / Amaç
-
-What this module does in one sentence.
-Bu modülün ne yaptığını bir cümleyle açıklayın.
+Bu modül, çalışanların ve kullanıcıların sosyal mühendislik saldırılarını (phishing, vishing, baiting) tanımlamasını ve bu tür saldırılara karşı savunma mekanizmalarını geliştirmesini amaçlar.
 
 ## How It Works / Nasıl Çalışır
 
