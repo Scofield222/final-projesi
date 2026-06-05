@@ -22,5 +22,5 @@ COPY . .
 # Konteyner çalışma anında portunu dinlemeye hazırlayın
 EXPOSE 8000
 
-# Konteyner başladığında çalışacak olan ana servis tanımı
-CMD ["python", "main.py"]
+# Konteyner başladığında çalışacak olan ana servisi başlatın
+CMD ["python", "src/main.py"]
