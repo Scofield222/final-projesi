@@ -85,5 +85,5 @@ Research notes → [`docs/research/`](./docs/research/)
 
 ## 🔗 References / Kaynaklar
 
-- OWASP Phishing Prevention Cheat Sheet (https://owasp.org/)
-- NIST Guide to Enterprise Telework, Remote Access and Bring Your Own Device (BYOD) (https://csrc.nist.gov/)
+- OWASP Phishing Prevention (https://owasp.org/)
+- NIST Computer Security Resource Center (https://csrc.nist.gov/)
