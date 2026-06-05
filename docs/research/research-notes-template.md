@@ -1,6 +1,6 @@
-# Research Notes / Araştırma Notları
+# Research Notes
 
-> Module / Konu: [Topic Name]
+> Module / Konu: Sosyal Mühendislik
 > Date / Tarih: 2026-06-05
 
 ---
