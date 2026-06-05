@@ -21,9 +21,9 @@
 
 | Topic / Konu | Status / Durum | Notes / Notlar |
 |--------------|----------------|----------------|
-| Sosyal Mühendislik Psikolojisi | ⬜ Tamamlandı | Temel tetikleyiciler analiz edildi |
-| Phishing Teknik Analizi | ⬜ Tamamlandı | URL ve başlık manipülasyonları incelendi |
-| Savunma Protokolleri | ⬜ Tamamlandı | DMARC/SPF/DKIM standartları araştırıldı |
+| Sosyal Mühendislik Psikolojisi | ✅ Tamamlandı | Temel tetikleyiciler analiz edildi |
+| Phishing Teknik Analizi | ✅ Tamamlandı | URL ve başlık manipülasyonları incelendi |
+| Savunma Protokolleri | ✅ Tamamlandı | DMARC/SPF/DKIM standartları araştırıldı |
 
 ---
 
