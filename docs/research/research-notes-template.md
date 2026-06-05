@@ -13,8 +13,8 @@ Sosyal Mühendislik saldırılarında kullanılan "Aciliyet" (Urgency) ve "Otori
 
 ## Resources Found
 
-- OWASP Phishing Rehberi (https://owasp.org/) - Phishing saldırılarında URL maskeleme ve sahte form oluşturma tekniklerini öğrendim.
-- NIST Sosyall Mühendislik Rehberi (https://csrc.nist.gov/) Kurumsal güvenlik politikalarında insan faktörünün nasıl bir savunma katmanı olarak kullanabileceğini öğrendim.
+- OWASP Phishing Rehberi (https://owasp.org/) -- Phishing saldırılarında URL maskeleme ve sahte form oluşturma tekniklerini öğrendim.
+- NIST Sosyall Mühendislik Rehberi (https://csrc.nist.gov/) -- Kurumsal güvenlik politikalarında insan faktörünün nasıl bir savunma katmanı olarak kullanabileceğini öğrendim.
 
 ## Key Findings / Temel Bulgular
 
