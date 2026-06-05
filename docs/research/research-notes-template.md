@@ -32,9 +32,10 @@ Deneyip de işe yaramayan şeyler ve nedenleri:
 - [ ] Question 1
 - [ ] Question 2
 
-## 50-Step Breakdown / 50 Adımlık Çözümleme
+## 50-Step Breakdown
 
-Break the topic into 50 small, ordered questions:
-1. Step 1: What is ...?
-2. Step 2: How does ...?
-...
+1. Adım 1: **Sosyal Mühendisliğin Psikolojik Temelleri Nelerdir?** --> İnsan zihnindeki "güven","otorite" ve "aciliyet" duygularının saldırganlar tarafından nasıl manipüle edildiğini tanımlayın.
+2. Adım 2: **Saldırı Döngüsünün İlk Aşamasında Bilgi Toplama Nasıl Yapılır?** --> OSINT (Açık Kaynak İstihbaratı) araçları kullanılarak bir hedefin sosyal medya ve kurumsal verilerinin nasıl ele geçirildiğini inceleyin.
+3. Adım 3: **Kimlik Avı (Phishing) Senaryosu Nasıl Kurgulanır?** --> Bir kurbanı inandıracak ikna edici bir "pretexting" (bahane) hilkayesinin teknik ve sözel unsurlarını kurgulayın.
+4. Adım 4: **Teknik Savunma Katmanları ve Hatalar Nelerdir?** --> SPF, DKIM, DMARC gibi e-posta güvenlik protokollerinin sosyal mühendislik karşısındaki etkisini ve yetersiz kaldığı durumları analiz edin.
+5. Adım 5: **Kurumsal Farkındalık Eğitimi Nasıl Etkili Hale Getirilir?** --> Sadece teorik anlatım yerine, simülasyon tabanlı eğitimlerin çalışan davranışları üzerindeki kalıcı etkisini değerlendirin.
