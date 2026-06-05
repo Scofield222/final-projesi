@@ -3,7 +3,7 @@
     <img src="docs/assets/istinye-university-logo.webp" alt="Istinye University" width="180"/>
   </a>
 
-  # [Your Project Title / Proje Başlığınız]
+  # Sosyal Mühendislik Farkındalık Raporu
 
   ![GitHub](https://img.shields.io/badge/GitHub-Private-red?style=flat-square&logo=github)
   ![Language](https://img.shields.io/badge/Language-[Rust|Python|Go]-blue?style=flat-square)
