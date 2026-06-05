@@ -65,5 +65,7 @@
 ## What I Learned / Öğrendiklerim
 
 Dürüst değerlendirme: Ne zordu? Ne sizi şaşırttı?
+
 **Ne zordu?:** Projenin en zorlayıcı kısmı, teorik sosyal mühendislik saldırı tekniklerini teknik bir raporlama diline ve Docker tabanlı izole bir yapıya dönüştürmek oldu. Ayrıca e-posta filtreleme sistemlerinin (SPF/DKIM/DMARC) güvenlik testlerini kısıtlaması pratik uygulamalarda ciddi bir "çıkmaz sokak" oluşturdu.
+
 **Ne şaşırttı?:** İnsan psikolojisindeki "aciliyet" (urgency) tetikleyicisinin en teknik güvenlik duvarlarından bile daha etkili bir zayıflık yaratabildiğini görmek beni şaşırttı. Teknik savunmanın insan faktörü eksik olduğunda tek başına yetersiz kaldığını bizzat deneyimlemek siber güvenlik bakış açımı değiştirdi. 
